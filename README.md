@@ -1,6 +1,10 @@
 ### Hi there 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=turquoise)](https://solved.ac/turquoise/)
 
+[Pinokio](https://github.com/Pinokio-zepeto)
+[컨SOL턴트](https://github.com/team-conSOLtant)
+[카드모아](https://github.com/a107-cardmore)
+
 <!--
 **rlawnsdn/rlawnsdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
